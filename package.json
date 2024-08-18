@@ -1,0 +1,27 @@
+{
+  "name": "notes-express",
+  "version": "1.0.0",
+  "description": "An application that can be used to write and save notes, using Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMRobertson89/Notes-Express.git"
+  },
+  "keywords": [
+    "express.js",
+    "JSON"
+  ],
+  "author": "Joshua Robertson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JMRobertson89/Notes-Express/issues"
+  },
+  "homepage": "https://github.com/JMRobertson89/Notes-Express#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jest": "^29.7.0"
+  }
+}
