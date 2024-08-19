@@ -4,7 +4,8 @@
   "description": "An application that can be used to write and save notes, using Express.js",
   "main": "server.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
